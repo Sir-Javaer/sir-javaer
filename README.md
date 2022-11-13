@@ -12,5 +12,5 @@
 
 🔸 Learn Swift. 
 
-### Hey! While you're here, you can find me in **Discord** going by the name of: *Sir Javaer#6014*
+### Hey! While you're here, you can find me on discord: [Sir Javaer](https://discord.com/users/899361559208427533)
 ![JavaerLurk](https://user-images.githubusercontent.com/94320472/201533524-e65cc551-2c8b-41cf-ac32-dab4edfe1386.png)
