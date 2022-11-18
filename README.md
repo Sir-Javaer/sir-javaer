@@ -1,5 +1,5 @@
 ## Well Hello There, I'm Glad You Made It Here!  
-🔹 Substantional expierence in Java and developing on an Arduino (ESP, and what not). 
+🔹 Substantial expierence in Java and developing on an Arduino (ESP, and what not). 
 
 🔹 In the process of learning JS (Node, React), HTML, CSS. 
 
