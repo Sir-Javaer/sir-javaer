@@ -1,13 +1,15 @@
 ## Well Hello There, I'm Glad You Made It Here!  
 🔹 Substantial expierence in Java and developing on an Arduino (ESP, and what not). 
 
-🔹 In the process of learning JS (Node, React), HTML, CSS. 
+🔹 In the process of learning NodeJS, reactjs CSS, tailwindcss, HTML as well as other modules and libraries.
 
 🔹 Currently developing [pixilated-planets](https://github.com/Sir-Javaer/pixelated-planets). 
 
 🔹 An object oriented Pixel Starships enjoyer; thus the above repository. 
 
 ### To Do:
+💠 Currently learning Bash and messing about with terminal
+
 🔸 Learn Git. 
 
 🔸 Learn Swift. 
