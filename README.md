@@ -3,7 +3,7 @@
 
 🔹 In the process of learning NodeJS, reactjs CSS, tailwindcss, HTML as well as other modules and libraries.
 
-🔹 Currently developing [pixilated-planets](https://github.com/Sir-Javaer/pixelated-planets). 
+🔹 Currently developing [vectorized-planets](https://github.com/Sir-Javaer/vectorized-planets). 
 
 🔹 An object oriented Pixel Starships enjoyer; thus the above repository. 
 
